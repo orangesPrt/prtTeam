@@ -16,9 +16,12 @@ public class NewsDaoImpl extends BaseDAO implements NewsDao   {
     public News getById(long articleId) {
         return getSqlSession().selectOne("NewsMapper.getById", articleId);
     }
+<<<<<<< HEAD
 
     @Override
     public void insertNews(News news) {
         getSqlSession().insert("NewsMapper.insertNews", news);
     }
+=======
+>>>>>>> origin/master
 }

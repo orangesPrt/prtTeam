@@ -10,6 +10,9 @@ import com.fullhome.website.pojo.News;
 public interface NewsDao {
 
     public News getById(long userId);
+<<<<<<< HEAD
 
     public void insertNews(News news);
+=======
+>>>>>>> origin/master
 }
