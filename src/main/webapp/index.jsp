@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>只二网络科技有限公司</title>
+    <title>fullhome首页</title>
     <meta name="description" content="">
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
@@ -10,17 +10,17 @@
     <meta name="keywords" content="">
     <meta name="renderer" content="webkit">
     <meta http-equiv="cache-control" content="no-siteapp">
-    <link rel="stylesheet" href="All/css/style.css">
-    <link rel="stylesheet" href="All/css/base.css">
-    <link rel="stylesheet" href="All/css/stys.css">
-    <link rel="shortcut icon" href="All/images/Icon/logo_1 copy.png">
+    <link rel="stylesheet" href="/All/css/style.css">
+    <link rel="stylesheet" href="/All/css/base.css">
+    <link rel="stylesheet" href="/All/css/stys.css">
+    <link rel="shortcut icon" href="/All/images/Icon/logo_1 copy.png">
 
-    <script type="text/javascript" src="All/js/jquery.js"></script>
-    <script type='text/javascript' src='All/js/scrolltext.js'></script>
-    <script type="text/javascript" src="All/js/jquery.reveal.js"></script>
-    <script type="text/javascript" src="All/js/jquery.bxslider_e88acd1b.js"></script>
+    <script type="text/javascript" src="/All/js/jquery.js"></script>
+    <script type='text/javascript' src='/All/js/scrolltext.js'></script>
+    <script type="text/javascript" src="/All/js/jquery.reveal.js"></script>
+    <script type="text/javascript" src="/All/js/jquery.bxslider_e88acd1b.js"></script>
     <script src="js/classie.js"></script>
-    <script src="All/js/gform.js"></script>
+    <script src="/All/js/gform.js"></script>
 
 </head>
 
@@ -58,7 +58,7 @@
                     </li>
                     <li>
                         <a href="#none"><i class="mpbtn_qrcode"></i></a>
-                        <div class="mp_qrcode" style="display:none;"><img src="All/images/Icon/app二维码.png" width="150" height="128" /><p>手机扫码下载APP</p><i class="icon_arrow_white"></i></div>
+                        <div class="mp_qrcode" style="display:none;"><img src="/All/images/Icon/app二维码.png" width="150" height="128" /><p>手机扫码下载APP</p><i class="icon_arrow_white"></i></div>
                     </li>
                     <li><a href="#top" class="return_top"><i class="top"></i></a></li>
                 </div>
@@ -102,7 +102,7 @@
                     <div><input type="text" class="inpu-text-sign inpu-text-signs"/></div>
                     <div class="sign-p flo-lef wid-100"><div class="gform-checkbox" style="margin-top:10px;"><input type="checkbox"></div>自动登录<a class="flo-rig">忘记密码</a></div>
                     <div><input type="button" class="butt fon-siz18" value="登录" style="width:100%;"/></div>
-                    <div class="sign-p mag-top50">其他登录方式&nbsp;&nbsp;<img src="All/images/Icon/weixinlog.png" class="ver-ali15">&nbsp;&nbsp;<img src="All/images/Icon/qqs.png" class="ver-ali15"/>&nbsp;&nbsp;<img src="All/images/Icon/weib.png" class="ver-ali15"/></div>
+                    <div class="sign-p mag-top50">其他登录方式&nbsp;&nbsp;<img src="/All/images/Icon/weixinlog.png" class="ver-ali15">&nbsp;&nbsp;<img src="All/images/Icon/qqs.png" class="ver-ali15"/>&nbsp;&nbsp;<img src="All/images/Icon/weib.png" class="ver-ali15"/></div>
                 </div>
 
                 <div id="con_two_2" style="display:none">
@@ -114,7 +114,7 @@
                     <div class="sign-p flo-lef wid-100"><!--input beg-->
                         <div class="gform-checkbox" style="margin-top:10px;"><input type="checkbox"></div>自动登录<a class="flo-rig">忘记密码</a></div>
                     <div><input type="button" class="butt fon-siz18 " value="登录" style="width:100%;"/></div>
-                    <div class="sign-p mag-top50">其他登录方式&nbsp;&nbsp;<img src="All/images/Icon/weixinlog.png" class="ver-ali15">&nbsp;&nbsp;<img src="All/images/Icon/qqs.png" class="ver-ali15"/>&nbsp;&nbsp;<img src="All/images/Icon/weib.png" class="ver-ali15"/></div>
+                    <div class="sign-p mag-top50">其他登录方式&nbsp;&nbsp;<img src="/All/images/Icon/weixinlog.png" class="ver-ali15">&nbsp;&nbsp;<img src="/All/images/Icon/qqs.png" class="ver-ali15"/>&nbsp;&nbsp;<img src="/All/images/Icon/weib.png" class="ver-ali15"/></div>
                 </div>
             </div>
         </div>
@@ -149,7 +149,7 @@
         </div>
 
         <div class="top-log wid-120 ove-hid mar-aut">
-            <div class="logo"><a href="index.html"><img src="All/images/Icon/logo.png" width="100%;"></a></div>
+            <div class="logo"><a href="/index.jsp"><img src="/All/images/fullhome/icon/logo.png" width="100%;"></a></div>
             <div class="top-ang fon-siz24 tex-ali">高品质高逼格</div>
             <div class="flo-rig" >
                 <ul class="Help " >
@@ -188,22 +188,22 @@
     <!--banner beg-->
     <div class="top_slide_wrap">
         <ul class="slide_box bxslider">
-            <li><a href="#"><img src="All/images/Public/Artboard 2.jpg" alt=""></a></li>
+            <li><a href="#"><img src="/All/images/fullhome/chizi.jpg" alt=""></a></li>
 
-            <li><a href="#"><img src="All/images/Public/2.jpg" alt=""></a></li>
+            <li><a href="#"><img src="/All/images/fullhome/jiazhuan.jpg" alt=""></a></li>
 
-            <li><a href="#"><img src="All/images/Public/3.jpg" alt=""></a></li>
+            <li><a href="#"><img src="/All/images/fullhome/chufang.jpg" alt=""></a></li>
 
-            <li><a href="#"><img src="All/images/Public/4.jpg" alt=""></a></li>
+            <li><a href="#"><img src="/All/images/fullhome/dengpao.jpg" alt=""></a></li>
         </ul>
     </div>
     <!--banner end-->
 
     <!--main3 beg-->
     <ul class="mian">
-        <li><img src="All/images/Replace/homeimg1.jpg"></li>
-        <li><img src="All/images/Replace/homeimg2.jpg"></li>
-        <li style="margin-right:0px;"><img src="All/images/Replace/homeimg3.jpg"></li>
+        <li><img src="/All/images/Replace/homeimg1.jpg"></li>
+        <li><img src="/All/images/Replace/homeimg2.jpg"></li>
+        <li style="margin-right:0px;"><img src="/All/images/Replace/homeimg3.jpg"></li>
     </ul>
     <!--main3 end-->
 
@@ -237,11 +237,11 @@
                 <p><a href="#">只二life&nbsp;&nbsp;</a></p>
             </li>
             <li>
-                <div class="weixin"><img src="All/images/Icon/weixin-256.png" class="img"></div>
+                <div class="weixin"><img src="/All/images/Icon/weixin-256.png" class="img"></div>
                 <p class="fon-siz12">微信关注</p>
             </li>
             <li>
-                <div class="weixin"><img src="All/images/Icon/zhierapp.png" width="70" style="margin-top:5px;"></div>
+                <div class="weixin"><img src="/All/images/Icon/zhierapp.png" width="70" style="margin-top:5px;"></div>
                 <p class="fon-siz12">下载APP</p>
             </li>
         </ul>

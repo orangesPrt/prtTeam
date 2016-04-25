@@ -19,4 +19,9 @@ public class UserInfoServiceImpl implements UserInfoService {
    public void  addUser(UserInfo userInfo) {
       userInfoDao.insertUserInfo(userInfo);
    }
+
+   @Override
+   public UserInfo queryUserInfoById(Long uesrId) {
+      return  userInfoDao.getById(uesrId);
+   }
 }
