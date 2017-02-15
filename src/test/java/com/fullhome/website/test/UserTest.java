@@ -29,12 +29,9 @@ public class UserTest extends BaseTest {
     @Autowired
     private NewsDao newsDao;
 
-<<<<<<< HEAD
     @Autowired
     private NewsService newsService;
 
-=======
->>>>>>> origin/master
 
     @Test
     @Ignore
@@ -53,7 +50,6 @@ public class UserTest extends BaseTest {
         System.out.printf("us" + userInfo.getUserName() + "\n");
     }
 
-<<<<<<< HEAD
     //======================== 新闻资讯类 测试方法 ===============================
     @Test
     @Ignore
@@ -75,13 +71,7 @@ public class UserTest extends BaseTest {
         News news = newsDao.getById(2L);
         News news1 = newsService.getById(2l);
         System.out.println("title=====" + news1.getTitle());
-=======
-    @Test
-    public void TestNews() {
-        newsDao.getById(1L);
->>>>>>> origin/master
+
     }
-
-
 
 }

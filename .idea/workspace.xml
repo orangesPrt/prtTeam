@@ -2,13 +2,500 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="0315b585-cfb2-4415-9d4b-56adccf399c7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="" />
-    </list>
-    <list id="58ff4ead-91f9-49e9-a15c-73666871c8a4" name="New changelist" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_zxing_core_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_8_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_2_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_5_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_5_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_5_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_join_5_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_5_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_5_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_5_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_5_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_3_2_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_2_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_3_2_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_3_2_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_2_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_2_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_4_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_wltea_ik_analyzer_ik_analyzer_5_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/dto/BaseDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/dto/NewsDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/dto/NewsDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/dto/UserInfoDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/dto/UserInfoDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/pojo/News.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/pojo/UserInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/service/NewsService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/service/UserInfoService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/service/impl/NewsServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/service/impl/UserInfoServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/utils/CustomJSONMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/utils/HttpUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/utils/MD5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/fullhome/website/utils/StringConverter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/css/select.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/css/stys.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/10love.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/1imgs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/2imgs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/3imgs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/4imgs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/5imgs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/6imgs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/7imgs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/8img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/SOUSUODA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/address.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/addresshover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/anxinsc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/app二维码.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/baigou.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/baisetoumzz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/beijingwenli.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/bflogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/bybg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/captcha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/carticon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/chacu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/char.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/charityimg-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/chekbox-ioco.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/chongzhi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/closeHover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/collectIcon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/dazhebq.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/delIcon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/delIcons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/dialogclose.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/erweimass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/fancybox_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/focusAdvBg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/gantanhao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/gform.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/gujiaimgss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/heicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/heise.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/hongbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/honggou.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/honggou3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/honggoulogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/honggouxiao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/hongs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/hongsetj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/hongtm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/hss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/huangse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/hui-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/huisejiantou.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/huiyuan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/ibar_sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/inputbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/jiah.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/jiahaos.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/jiantou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/jiantou1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/jiantous.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/jiantouss1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/jiantousss2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/jiaohaobtn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/jiuaiorder-step.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/jiulove.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/jtt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/jujue.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/kuku.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/kuzi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/liuchengimg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/lloves.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/logistics.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/logo_1 copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/logos.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/logox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/lostimgs.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/loveicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/lovelove.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/lvtianjia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/memberIcon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/menubg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/message.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/naoz.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/no-img_mid_.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/pngjiahao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/qians.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/qiaobao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/qqs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/qunzi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/redbtn1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/ren.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/retrieve-password-step.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/saoyisao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/select2-spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/select2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/select2x2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/selectbtn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/selecttop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/seller.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/sha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/share2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/shareaix.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/shares2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/shares22.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/shiwupaishe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/shop-step.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/shopcart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/shopcarticon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/shousuo35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/slove.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/sold.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/sousuo-s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/suanzhang.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/suo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/suozi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/times.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/to9umings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/too.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/toumhong.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/touming.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/untitled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/view-link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/view-text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/wayanj.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/wdsc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/weib.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/weibohui.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/weixin-256.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/weixin_code_145.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/weixinb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/weixinlog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/weixinss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/wenhaoo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/wenjian.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/xiezi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/xin1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/xin2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/xinfeng.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/yifu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/yinlian.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/yuand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/yunlogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/yuuan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/zfbs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/zhanghu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/zhier.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/zhierapp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/zhiers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/zhierss.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Icon/zhifubao.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/1-524-151204.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/2-233-151204.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/201500000491-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/201500000500-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/201500000528-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/201500000537-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/201500000538-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/201500000580-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/201500000581-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/201500000585-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/3-230-151204.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/4-196-151204.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/5-190-151204.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/6-168-151204.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/Artboard 2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/IMG_1927.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/IMG_2005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/Untitled-1(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/aboutimg-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/aboutimg-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/banner (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/banner-(1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/banner-kids151127.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/banner-man.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/banner-new151127.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/banner-sale151127.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/banner-salebottom151127.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/banner-women151127.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/banner4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/banner5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/bgben.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaotizis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaozhun1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaozhun10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaozhun11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaozhun12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaozhun13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaozhun14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaozhun2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaozhun3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaozhun4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaozhun5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaozhun6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaozhun7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaozhun8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/biaozhun9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/category-ad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/cha2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/cha3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/cha4 - 副本.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/cha4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/cha5 - 副本.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/cha5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/charityimg-1 (1).jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/csnew.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/csnew2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/douhao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/fenshouhou.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/genglin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/guandian.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/guide-children.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/guide-men.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/guide-women.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/hj-slider-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/hj-slider-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/hj-slider-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/how.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/img_0523.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/ingsss.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/jianlaji.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/jiaru.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/junjun.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/liaolian.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/lisisi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/logochar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/maoyi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/measurement-children.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/measurement-men.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/measurement-women.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/naolijiaoli.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/niangn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/qxlove.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/sell-img01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/sell-img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/sell-img03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/sharelo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/shil.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/shuijiuai.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/signinbg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/special_title.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/taozao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/team-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/team-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/team-12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/team-13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/team-14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/team-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/team-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/team-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/team-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/team-7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/tem.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/thanks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/tupianss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/wankun.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/wqq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/xiaoxiao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/xiaoxue.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/yuan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/yusan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/zhierlif.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/zhiernew1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/zhiernew2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/zhiernew3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/zhiernew4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/zhiernew6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Public/zhuoyu.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/201500000599-11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/201500000605-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/201500000609-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/201500000610-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/201500000619-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/201500000642-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/201500000651-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/201500000651-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/201500000651-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/enbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/homeimg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/homeimg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/homeimg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/liucheng.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/sell-img02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/sell-standard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Replace/tuominghong.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/fullhome/chizi.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/fullhome/chufang.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/fullhome/dengpao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/fullhome/icon/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/images/fullhome/jiazhuan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/Charityjs/alu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/Charityjs/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/Charityjs/jQuery-jcImgScroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/Charityjs/jquery.SuperSlide.2.1.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/Charityjs/jquery.countdown.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/Charityjs/jquery.fancybox.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/Charityjs/jquery.nicescroll.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/area.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/gform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/gundong.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/jquery-1.11.1.min_044d0927.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/jquery.SuperSlide.2.1.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/jquery.bxslider_e88acd1b.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/jquery.cbFlyout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/jquery.imagezoom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/jquery.reveal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/jquery.selectlist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/laydate/laydate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/laydate/need/laydate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/laydate/skins/dahong/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/laydate/skins/dahong/laydate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/laydate/skins/danlan/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/laydate/skins/danlan/laydate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/laydate/skins/default/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/laydate/skins/default/laydate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/laydate/skins/qianhuang/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/laydate/skins/qianhuang/laydate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/laydate/skins/yahui/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/laydate/skins/yahui/laydate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/laydate/skins/yalan/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/laydate/skins/yalan/laydate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/location.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/menujs/base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/scrolltext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/select2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/tuod/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/tuod/jquery-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/All/js/tuod/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/com/fullhome/website/dto/BaseDAO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/com/fullhome/website/dto/NewsDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/com/fullhome/website/dto/NewsDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/com/fullhome/website/dto/UserInfoDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/com/fullhome/website/dto/UserInfoDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/com/fullhome/website/pojo/News.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/com/fullhome/website/pojo/UserInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/com/fullhome/website/service/UserInfoService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/com/fullhome/website/service/impl/UserInfoServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/com/fullhome/website/utils/CustomJSONMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/com/fullhome/website/utils/HttpUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/com/fullhome/website/utils/MD5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/com/fullhome/website/utils/StringConverter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/commons-codec-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/commons-dbcp-1.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/commons-httpclient-3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/commons-lang3-3.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/commons-logging-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/commons-pool-1.5.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/commons-pool2-2.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/core-2.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/httpclient-4.2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/httpcore-4.2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/ik-analyzer-5.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/jackson-core-asl-1.4.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/jackson-mapper-asl-1.4.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/jsoup-1.8.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/log4j-1.2.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/lucene-analyzers-common-5.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/lucene-core-5.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/lucene-highlighter-5.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/lucene-join-5.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/lucene-memory-5.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/lucene-queries-5.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/lucene-queryparser-5.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/lucene-sandbox-5.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/mybatis-3.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/mysql-connector-java-5.1.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/slf4j-api-1.7.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/slf4j-log4j12-1.7.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/spring-aop-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/spring-beans-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/spring-context-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/spring-context-support-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/spring-core-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/spring-expression-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/spring-jdbc-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/spring-orm-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/spring-oxm-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/spring-test-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/spring-tx-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/spring-web-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/spring-webmvc-3.2.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/xmlpull-1.1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/xpp3_min-1.1.4c.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/WEB-INF/lib/xstream-1.4.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/com.fullhome/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/fullhome/website/common/BaseTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/fullhome/website/test/UserTest.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/java_demo_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/java_demo_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-demo.iml" afterPath="$PROJECT_DIR$/java-demo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/fullhome/website/test/UserTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/fullhome/website/test/UserTest.java" />
     </list>
+    <list id="58ff4ead-91f9-49e9-a15c-73666871c8a4" name="New changelist" comment="" />
     <ignored path="java-demo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,7 +509,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CommittedChangesCache">
     <option name="refreshEnabled" value="true" />
   </component>
@@ -40,12 +526,12 @@
     <favorites_list name="java-demo" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="UserTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/fullhome/website/test/UserTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.7878788">
-              <caret line="70" column="24" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+            <state relative-caret-position="473">
+              <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -100,9 +586,11 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -114,8 +602,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$PROJECT_DIR$/../../maven/reo" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../maven" />
+        <option name="localRepository" value="$USER_HOME$/maven/reo" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -126,16 +614,6 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="java-demo Maven Webapp" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
       <PATH>
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
@@ -158,13 +636,10 @@
       </PATH>
     </treeState>
   </component>
-  <component name="NamedScopeManager">
-    <order />
-  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="717" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -303,8 +778,11 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -598,7 +1076,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -607,7 +1084,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="settings.editor.splitter.proportion" value="0.23841698" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -901,16 +1378,6 @@
       </ExternalSystemSettings>
       <method />
     </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <module name="" />
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="depsClasspath" value="false" />
-      <setting name="passParentEnv" value="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <setting name="launchBrowser" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -970,12 +1437,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -1005,6 +1466,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -1114,7 +1576,9 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>$USER_HOME$/.subversion</configuration>
     <supportedVersion>125</supportedVersion>
@@ -1125,6 +1589,7 @@
       <changelist id="58ff4ead-91f9-49e9-a15c-73666871c8a4" name="New changelist" comment="" />
       <created>1447857335216</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1447857335216</updated>
       <workItem from="1447857339247" duration="24000" />
       <workItem from="1461147807391" duration="2559000" />
@@ -1137,64 +1602,75 @@
       <workItem from="1461307931071" duration="5496000" />
       <workItem from="1461329757568" duration="2594000" />
       <workItem from="1461588816790" duration="2528000" />
+      <workItem from="1487130389638" duration="150000" />
     </task>
     <task id="LOCAL-00001" summary="增加文件注释">
       <created>1461228642769</created>
       <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1461228642769</updated>
     </task>
     <task id="LOCAL-00002" summary="增加文件注释">
       <created>1461230530174</created>
       <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
       <updated>1461230530174</updated>
     </task>
     <task id="LOCAL-00003" summary="增加查询资讯我文章的dao层">
       <created>1461232018420</created>
       <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
       <updated>1461232018420</updated>
     </task>
     <task id="LOCAL-00004" summary="增加查询资讯我文章的dao层">
       <created>1461245830236</created>
       <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
       <updated>1461245830236</updated>
     </task>
     <task id="LOCAL-00005" summary="修改数据库连接地址">
       <created>1461597773787</created>
       <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
       <updated>1461597773787</updated>
     </task>
     <task id="LOCAL-00006" summary="增加banner图片">
       <created>1461597809059</created>
       <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
       <updated>1461597809059</updated>
     </task>
     <task id="LOCAL-00007" summary="修改首页">
       <created>1461597856769</created>
       <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
       <updated>1461597856769</updated>
     </task>
     <task id="LOCAL-00008" summary="增加新闻资讯类服务层">
       <created>1461597899118</created>
       <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
       <updated>1461597899118</updated>
     </task>
     <task id="LOCAL-00009" summary="用户模块增加查询方法">
       <created>1461597927695</created>
       <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
       <updated>1461597927695</updated>
     </task>
     <task id="LOCAL-00010" summary="添加新闻资讯类单元测试">
       <created>1461597952027</created>
       <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
       <updated>1461597952027</updated>
     </task>
@@ -1202,66 +1678,66 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24882000" />
+    <option name="totallyTimeSpent" value="25032000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="717" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="726" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.60215056" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.60215056" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2552504" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26009694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37173578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60215056" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2552504" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6" sideWeight="0.49676898" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37121212" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26009694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32575756" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26009694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37173578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2552504" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.60215056" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2552504" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.60120845" sideWeight="0.49676898" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37173578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26009694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1297,82 +1773,70 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/pojo/News.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/NewsMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="12" column="19" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/dto/UserInfoDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/pojo/News.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/NewsMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="12" column="19" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/dto/UserInfoDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/pojo/News.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="64" column="36" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/NewsMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="12" column="19" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/dto/UserInfoDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding />
         </state>
@@ -1380,28 +1844,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/fullhome/website/test/UserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/service/impl/UserInfoServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
@@ -1409,21 +1873,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/UserInfoMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/fullhome/website/test/UserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1431,77 +1895,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring/application-context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.8888888">
+        <state relative-caret-position="0">
           <caret line="7" column="31" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-mybatis.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4814816">
+        <state relative-caret-position="0">
           <caret line="40" column="62" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-mvc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18421052">
+        <state relative-caret-position="0">
           <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-beans.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.148148">
+        <state relative-caret-position="0">
           <caret line="14" column="21" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/utils/CustomJSONMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/utils/MD5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16759777">
+        <state relative-caret-position="0">
           <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/utils/StringConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41899443">
+        <state relative-caret-position="0">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../maven/reo/org/mybatis/mybatis/3.3.0/mybatis-3.3.0.jar!/org/apache/ibatis/io/ClassLoaderWrapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.081571">
-          <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/maven/reo/org/mybatis/mybatis/3.3.0/mybatis-3.3.0.jar!/org/apache/ibatis/io/ClassLoaderWrapper.class" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/utils/HttpUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60570073">
+        <state relative-caret-position="0">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.1021378">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding />
         </state>
@@ -1509,21 +1967,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/UserInfoMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/dto/BaseDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14742015">
+        <state relative-caret-position="0">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/dto/UserInfoDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="10" column="40" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="40" />
         </state>
       </provider>
@@ -1560,7 +2018,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="143" column="79" selection-start-line="143" selection-start-column="56" selection-end-line="143" selection-end-column="79" />
           <folding />
         </state>
@@ -1568,37 +2026,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/pojo/UserInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="25" column="25" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/dto/UserInfoDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5905512">
+        <state relative-caret-position="0">
           <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-          <folding>
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/pojo/News.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4093098">
+        <state relative-caret-position="0">
           <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-          <folding>
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1028#1029#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mybatis-config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7322835">
+        <state relative-caret-position="0">
           <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
           <folding />
         </state>
@@ -1606,89 +2055,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/dto/NewsDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6456693">
+        <state relative-caret-position="0">
           <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/service/UserInfoService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5084746">
+        <state relative-caret-position="0">
           <caret line="12" column="50" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/dto/NewsDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.511811">
+        <state relative-caret-position="0">
           <caret line="13" column="38" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis/mapper/NewsMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39370078">
+        <state relative-caret-position="0">
           <caret line="10" column="26" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <marker date="1461227990000" expanded="true" signature="-1:-1" placeholder="select * fro..News..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/service/NewsService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/service/impl/UserInfoServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-          <folding>
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fullhome/website/service/impl/NewsServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.023622047">
+        <state relative-caret-position="0">
           <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25974026">
+        <state relative-caret-position="0">
           <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/fullhome/website/test/UserTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.7878788">
-          <caret line="70" column="24" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
+        <state relative-caret-position="473">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
           <folding />
         </state>
       </provider>
